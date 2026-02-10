@@ -1,14 +1,14 @@
 # Hello there! I'm Pedro
 
-I’m a **Full-Stack Developer** and **AWS Certified Solutions Architect**. I like building software that actually gets used and can scale without becoming a nightmare to maintain.
+I'm a **Full-Stack Developer** and **AWS Certified Solutions Architect**. I like building software that actually gets used and can scale without becoming a nightmare to maintain.
 
-Most of my work is around **TypeScript**, **React**, **Node.js**, **NestJS**, and **MongoDB**, covering both frontend and backend. I’m comfortable working across the whole stack and taking responsibility for features from idea to production.
+Most of my work is around **TypeScript**, **React**, **Node.js**, **NestJS**, and **MongoDB**, covering both frontend and backend. I'm comfortable working across the whole stack and taking responsibility for features from idea to production.
 
-I also spend a lot of time with **cloud infrastructure and deployments**, mainly on **AWS**. I handle things like setting up environments, managing deployments, thinking about scalability, availability, and security, and making sure systems don’t fall apart once they’re live.
+I also spend a lot of time with **cloud infrastructure and deployments**, mainly on **AWS**. I handle things like setting up environments, managing deployments, thinking about scalability, availability, and security, and making sure systems don't fall apart once they're live.
 
-I like working on projects that challenge me technically and push me to learn new things. I’m always looking to improve how things are built, not just to ship fast, but to ship something solid and maintainable.
+I like working on projects that challenge me technically and push me to learn new things. I'm always looking to improve how things are built, not just to ship fast, but to ship something solid and maintainable.
 
-If you’re interested in collaborating or just want to talk about tech, feel free to reach out.
+If you're interested in collaborating or just want to talk about tech, feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itspedr0/)
 
