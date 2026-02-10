@@ -1,12 +1,16 @@
 # Hello there! I'm Pedro
 
-I'm a Full-Stack Developer who loves building apps that are both valuable and scalable. I have experience using MongoDB, Express, React.js, and Node.js, and I've worked with teams from around the world to create high-quality software.
+I’m a **Full-Stack Developer** and **AWS Certified Solutions Architect**. I like building software that actually gets used and can scale without becoming a nightmare to maintain.
 
-Alongside development, I also handle infrastructure and deployments, using AWS services like ECS, S3, Route 53, and EC2 to keep systems reliable and secure. Recently, I’ve worked on projects with real-time features and cloud setups that are built to scale and stay available.
+Most of my work is around **TypeScript**, **React**, **Node.js**, **NestJS**, and **MongoDB**, covering both frontend and backend. I’m comfortable working across the whole stack and taking responsibility for features from idea to production.
 
-I'm always excited to work on projects that bring new challenges. Feel free to reach out if you'd like to collaborate on any interesting project!
+I also spend a lot of time with **cloud infrastructure and deployments**, mainly on **AWS**. I handle things like setting up environments, managing deployments, thinking about scalability, availability, and security, and making sure systems don’t fall apart once they’re live.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opedrodev/)
+I like working on projects that challenge me technically and push me to learn new things. I’m always looking to improve how things are built, not just to ship fast, but to ship something solid and maintainable.
+
+If you’re interested in collaborating or just want to talk about tech, feel free to reach out.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itspedr0/)
 
 <br>
 
